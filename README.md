@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION (BLACK TEXT) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&lines=Initializing+System...;Access+Granted+✔;Cybersecurity+Enthusiast;Full+Stack+Developer;Building+Cool+Stuff+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&lines=Initializing+System...;Access+Granted+✔;New Technologies+Enthusiast;Full+Stack+Developer;Building+Cool+Stuff+🚀" />
 </p>
 
 <h3 align="center">:]</h3>
