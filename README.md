@@ -41,4 +41,12 @@ Full Stack Developer • Technology Enthusiast
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32" height="32"/>
 <img src="https://reactnative.dev/img/header_logo.svg" width="32" height="32"/>
 
-</p> 
+</p>
+
+---
+
+<!-- GIF AT THE BOTTOM -->
+
+<p align="center">
+  <img src="Gifs/mugen-smiling.gif" width="300"/>
+</p>
