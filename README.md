@@ -1,13 +1,13 @@
-<!-- ANIMATED MATRIX HEADER (No Loading Issues) -->
+<!-- ANIMATED HEADER (BLACK TEXT) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=220&section=header&text=Ralph%20Pajuleras&fontColor=00ff00&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=220&section=header&text=Ralph%20Pajuleras&fontColor=000000&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18&descColor=000000" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ralph Pajuleras</h1>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION (BLACK TEXT) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Initializing+System...;Access+Granted+✔;Cybersecurity+Enthusiast;Full+Stack+Developer;Building+Cool+Stuff+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&lines=Initializing+System...;Access+Granted+✔;Cybersecurity+Enthusiast;Full+Stack+Developer;Building+Cool+Stuff+🚀" />
 </p>
 
 <h3 align="center">:]</h3>
@@ -106,7 +106,7 @@
 
 ---
 
-<!-- FOOTER WAVE -->
+<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=120&section=footer"/>
 </p>
