@@ -1,6 +1,6 @@
 <!-- ANIMATED HEADER (BLACK TEXT) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=220&section=header&text=Ralph%20Pajuleras&fontColor=000000&fontSize=45&animation=fadeIn&fontAlignY=35&desc=New Technologies%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18&descColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=220&section=header&text=Ralph%20Pajuleras&fontColor=000000&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Technology%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18&descColor=000000" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ralph Pajuleras</h1>
